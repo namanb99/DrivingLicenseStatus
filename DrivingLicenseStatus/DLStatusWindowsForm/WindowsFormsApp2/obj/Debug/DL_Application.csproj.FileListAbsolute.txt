@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\LENOVO\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\LENOVO\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\LENOVO\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DL_Application.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\LENOVO\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DL_Application.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\DL_Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\LENOVO\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
